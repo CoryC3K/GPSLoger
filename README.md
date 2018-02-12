@@ -1,4 +1,4 @@
-# GPSLoger
+# GPSLogger
 GPS Logger
 
 Made to log GPS from a raspberry Pi.
